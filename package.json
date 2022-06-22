@@ -11,7 +11,7 @@
     "enmap": "^5.2.2",
     "ffmpeg": "^0.0.4",
     "google": "^2.1.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "lodash.sortby": "^4.7.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
